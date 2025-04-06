@@ -1,0 +1,420 @@
+[2025-04-06T17:46:17.054+0000] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-04-06T17:46:17.055+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-04-06T17:46:17.055+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-04-06T17:46:17.056+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2025-04-06T17:46:17.067+0000] {manager.py:741} INFO - There are 2 files in /opt/airflow/dags
+[2025-04-06T17:46:17.779+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0           0
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.61s           2025-04-06T17:46:17
+================================================================================
+[2025-04-06T17:46:26.211+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:46:48.502+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  7.33s           2025-04-06T17:46:26
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.21s           2025-04-06T17:46:48
+================================================================================
+[2025-04-06T17:47:02.781+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:47:20.258+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  6.33s           2025-04-06T17:47:02
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.11s           2025-04-06T17:47:20
+================================================================================
+[2025-04-06T17:47:39.365+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:47:51.344+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  6.12s           2025-04-06T17:47:39
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.11s           2025-04-06T17:47:51
+================================================================================
+[2025-04-06T17:48:15.569+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:48:21.760+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  6.13s           2025-04-06T17:48:15
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.11s           2025-04-06T17:48:21
+================================================================================
+[2025-04-06T17:48:51.768+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:48:51.770+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  6.13s           2025-04-06T17:48:51
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.11s           2025-04-06T17:48:21
+================================================================================
+[2025-04-06T17:49:27.866+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:49:27.868+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  6.03s           2025-04-06T17:49:27
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.11s           2025-04-06T17:48:52
+================================================================================
+[2025-04-06T17:50:03.775+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:50:03.776+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  5.83s           2025-04-06T17:50:03
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.11s           2025-04-06T17:49:29
+================================================================================
+[2025-04-06T17:50:40.074+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:50:40.076+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  6.23s           2025-04-06T17:50:40
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.11s           2025-04-06T17:50:04
+================================================================================
+[2025-04-06T17:51:15.968+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:51:15.969+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  5.82s           2025-04-06T17:51:15
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.11s           2025-04-06T17:50:41
+================================================================================
+[2025-04-06T17:51:18.151+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2025-04-06T17:51:18.171+0000] {manager.py:741} INFO - There are 2 files in /opt/airflow/dags
+[2025-04-06T17:51:51.862+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:51:51.864+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  5.82s           2025-04-06T17:51:51
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.11s           2025-04-06T17:51:17
+================================================================================
+[2025-04-06T17:52:28.159+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:52:28.161+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  6.23s           2025-04-06T17:52:28
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.11s           2025-04-06T17:51:53
+================================================================================
+[2025-04-06T17:53:04.059+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:53:04.061+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  5.83s           2025-04-06T17:53:04
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.11s           2025-04-06T17:52:29
+================================================================================
+[2025-04-06T17:53:36.249+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:53:36.251+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  5.93s           2025-04-06T17:53:36
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.11s           2025-04-06T17:53:05
+================================================================================
+[2025-04-06T17:53:47.630+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/fraud_pipeline_dag.py exited with return code 1.
+[2025-04-06T17:54:04.580+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/fraud_pipeline_dag.py exited with return code 1.
+[2025-04-06T17:54:12.150+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:54:12.151+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/fraud_pipeline_dag.py                           0          -1  5.83s           2025-04-06T17:54:04
+/opt/airflow/dags/predict_new.py                                  0          -1  5.82s           2025-04-06T17:54:12
+================================================================================
+[2025-04-06T17:54:35.513+0000] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-04-06T17:56:06.161+0000] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-04-06T17:56:06.162+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-04-06T17:56:06.162+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-04-06T17:56:06.162+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2025-04-06T17:56:06.178+0000] {manager.py:741} INFO - There are 2 files in /opt/airflow/dags
+[2025-04-06T17:56:12.948+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/fraud_pipeline_dag.py exited with return code 1.
+[2025-04-06T17:56:12.951+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/fraud_pipeline_dag.py                           0          -1  6.72s           2025-04-06T17:56:12
+/opt/airflow/dags/predict_new.py                                  0           0
+================================================================================
+[2025-04-06T17:56:20.142+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:56:49.530+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/fraud_pipeline_dag.py exited with return code 1.
+[2025-04-06T17:56:49.532+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/fraud_pipeline_dag.py                           0          -1  6.12s           2025-04-06T17:56:49
+/opt/airflow/dags/predict_new.py                                  0          -1  6.12s           2025-04-06T17:56:20
+================================================================================
+[2025-04-06T17:56:56.270+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:57:25.841+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/fraud_pipeline_dag.py exited with return code 1.
+[2025-04-06T17:57:25.842+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/fraud_pipeline_dag.py                           0          -1  6.23s           2025-04-06T17:57:25
+/opt/airflow/dags/predict_new.py                                  0          -1  6.02s           2025-04-06T17:56:56
+================================================================================
+[2025-04-06T17:57:32.289+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T17:58:01.066+0000] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-04-06T17:58:01.066+0000] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-04-06T17:58:01.269+0000] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-04-06T18:00:10.966+0000] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-04-06T18:00:10.967+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-04-06T18:00:10.967+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-04-06T18:00:10.967+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2025-04-06T18:00:10.982+0000] {manager.py:741} INFO - There are 2 files in /opt/airflow/dags
+[2025-04-06T18:00:18.257+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/fraud_pipeline_dag.py exited with return code 1.
+[2025-04-06T18:00:18.261+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/fraud_pipeline_dag.py                           0          -1  7.23s           2025-04-06T18:00:18
+/opt/airflow/dags/predict_new.py                                  0           0
+================================================================================
+[2025-04-06T18:00:25.564+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:00:54.888+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/fraud_pipeline_dag.py exited with return code 1.
+[2025-04-06T18:00:54.889+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/fraud_pipeline_dag.py                           0          -1  6.02s           2025-04-06T18:00:54
+/opt/airflow/dags/predict_new.py                                  0          -1  6.22s           2025-04-06T18:00:25
+================================================================================
+[2025-04-06T18:01:01.902+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:01:31.340+0000] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-04-06T18:01:31.340+0000] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-04-06T18:01:31.555+0000] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-04-06T18:02:07.204+0000] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-04-06T18:02:07.205+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-04-06T18:02:07.205+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-04-06T18:02:07.205+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2025-04-06T18:02:07.233+0000] {manager.py:741} INFO - There are 2 files in /opt/airflow/dags
+[2025-04-06T18:02:13.707+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/fraud_pipeline_dag.py exited with return code 1.
+[2025-04-06T18:02:13.709+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/fraud_pipeline_dag.py                           0          -1  6.42s           2025-04-06T18:02:13
+/opt/airflow/dags/predict_new.py                                  0           0
+================================================================================
+[2025-04-06T18:02:20.931+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:02:54.676+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/fraud_pipeline_dag.py                           0           1  10.54s          2025-04-06T18:02:54
+/opt/airflow/dags/predict_new.py                                  0          -1  6.13s           2025-04-06T18:02:20
+================================================================================
+[2025-04-06T18:03:01.845+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:03:11.570+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:03:24.731+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  5.82s           2025-04-06T18:03:11
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.62s           2025-04-06T18:03:13
+================================================================================
+[2025-04-06T18:04:01.466+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:04:01.468+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  6.52s           2025-04-06T18:04:01
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.10s           2025-04-06T18:03:46
+================================================================================
+[2025-04-06T18:04:37.699+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:04:37.701+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  6.12s           2025-04-06T18:04:37
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.10s           2025-04-06T18:04:16
+================================================================================
+[2025-04-06T18:05:13.914+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:05:13.916+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  6.12s           2025-04-06T18:05:13
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.21s           2025-04-06T18:04:56
+================================================================================
+[2025-04-06T18:05:50.609+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:05:50.611+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  5.82s           2025-04-06T18:05:50
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.10s           2025-04-06T18:05:26
+================================================================================
+[2025-04-06T18:06:27.046+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:06:27.048+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  6.23s           2025-04-06T18:06:27
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.10s           2025-04-06T18:05:57
+================================================================================
+[2025-04-06T18:07:03.251+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:07:03.252+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  6.13s           2025-04-06T18:07:03
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.20s           2025-04-06T18:06:28
+================================================================================
+[2025-04-06T18:07:08.228+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2025-04-06T18:07:08.250+0000] {manager.py:741} INFO - There are 2 files in /opt/airflow/dags
+[2025-04-06T18:07:39.145+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:07:39.147+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  5.83s           2025-04-06T18:07:39
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.10s           2025-04-06T18:07:04
+================================================================================
+[2025-04-06T18:08:15.341+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:08:15.343+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  6.12s           2025-04-06T18:08:15
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.10s           2025-04-06T18:07:40
+================================================================================
+[2025-04-06T18:08:51.238+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:08:51.239+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  5.82s           2025-04-06T18:08:51
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.10s           2025-04-06T18:08:16
+================================================================================
+[2025-04-06T18:09:27.430+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:09:27.431+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  6.12s           2025-04-06T18:09:27
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.10s           2025-04-06T18:08:52
+================================================================================
+[2025-04-06T18:10:03.633+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:10:03.635+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  6.13s           2025-04-06T18:10:03
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.10s           2025-04-06T18:09:28
+================================================================================
+[2025-04-06T18:10:39.525+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:10:39.526+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  5.82s           2025-04-06T18:10:39
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.10s           2025-04-06T18:10:04
+================================================================================
+[2025-04-06T18:11:15.724+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:11:15.725+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  6.13s           2025-04-06T18:11:15
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.10s           2025-04-06T18:10:40
+================================================================================
+[2025-04-06T18:11:51.713+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:11:51.715+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  5.92s           2025-04-06T18:11:51
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.10s           2025-04-06T18:11:16
+================================================================================
+[2025-04-06T18:12:08.319+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2025-04-06T18:12:08.337+0000] {manager.py:741} INFO - There are 2 files in /opt/airflow/dags
+[2025-04-06T18:12:27.603+0000] {manager.py:1017} ERROR - Processor for /opt/airflow/dags/predict_new.py exited with return code 1.
+[2025-04-06T18:12:27.605+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/predict_new.py                                  0          -1  5.82s           2025-04-06T18:12:27
+/opt/airflow/dags/fraud_pipeline_dag.py                           1           0  0.10s           2025-04-06T18:11:52
+================================================================================

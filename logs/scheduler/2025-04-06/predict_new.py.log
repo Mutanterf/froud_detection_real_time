@@ -1,0 +1,160 @@
+[2025-04-06T17:46:18.901+0000] {processor.py:161} INFO - Started process (PID=58) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:46:18.902+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:46:18.903+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:46:18.903+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:46:26.015+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T17:46:56.469+0000] {processor.py:161} INFO - Started process (PID=61) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:46:56.470+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:46:56.471+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:46:56.471+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:47:02.755+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T17:47:33.256+0000] {processor.py:161} INFO - Started process (PID=120) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:47:33.257+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:47:33.258+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:47:33.257+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:47:39.285+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T17:48:09.458+0000] {processor.py:161} INFO - Started process (PID=123) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:48:09.460+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:48:09.461+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:48:09.460+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:48:15.529+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T17:48:45.654+0000] {processor.py:161} INFO - Started process (PID=126) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:48:45.655+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:48:45.656+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:48:45.656+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:48:51.747+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T17:49:21.852+0000] {processor.py:161} INFO - Started process (PID=129) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:49:21.853+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:49:21.854+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:49:21.854+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:49:27.836+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T17:49:57.960+0000] {processor.py:161} INFO - Started process (PID=132) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:49:57.961+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:49:57.962+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:49:57.961+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:50:03.724+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T17:50:33.862+0000] {processor.py:161} INFO - Started process (PID=135) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:50:33.863+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:50:33.864+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:50:33.864+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:50:40.032+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T17:51:10.160+0000] {processor.py:161} INFO - Started process (PID=138) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:51:10.161+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:51:10.162+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:51:10.161+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:51:15.953+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T17:51:46.052+0000] {processor.py:161} INFO - Started process (PID=141) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:51:46.053+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:51:46.054+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:51:46.053+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:51:51.767+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T17:52:21.948+0000] {processor.py:161} INFO - Started process (PID=144) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:52:21.949+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:52:21.950+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:52:21.950+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:52:28.130+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T17:52:58.252+0000] {processor.py:161} INFO - Started process (PID=147) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:52:58.253+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:52:58.254+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:52:58.254+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:53:03.973+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T17:53:30.337+0000] {processor.py:161} INFO - Started process (PID=150) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:53:30.338+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:53:30.339+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:53:30.339+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:53:36.178+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T17:54:06.342+0000] {processor.py:161} INFO - Started process (PID=157) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:54:06.343+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:54:06.344+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:54:06.344+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:54:12.089+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T17:56:14.033+0000] {processor.py:161} INFO - Started process (PID=59) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:56:14.034+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:56:14.035+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:56:14.035+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:56:20.069+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T17:56:50.261+0000] {processor.py:161} INFO - Started process (PID=63) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:56:50.262+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:56:50.263+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:56:50.262+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:56:56.228+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T17:57:26.380+0000] {processor.py:161} INFO - Started process (PID=67) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T17:57:26.381+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T17:57:26.382+0000] {logging_mixin.py:188} INFO - [2025-04-06T17:57:26.382+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T17:57:32.237+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:00:19.353+0000] {processor.py:161} INFO - Started process (PID=59) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:00:19.354+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:00:19.355+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:00:19.355+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:00:25.533+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:00:55.689+0000] {processor.py:161} INFO - Started process (PID=63) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:00:55.690+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:00:55.691+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:00:55.690+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:01:01.845+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:02:14.835+0000] {processor.py:161} INFO - Started process (PID=50) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:02:14.837+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:02:14.838+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:02:14.838+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:02:20.865+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:02:55.733+0000] {processor.py:161} INFO - Started process (PID=54) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:02:55.734+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:02:55.735+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:02:55.735+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:03:01.752+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:03:05.761+0000] {processor.py:161} INFO - Started process (PID=56) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:03:05.762+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:03:05.763+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:03:05.763+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:03:11.554+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:03:54.955+0000] {processor.py:161} INFO - Started process (PID=116) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:03:54.956+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:03:54.957+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:03:54.956+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:04:01.420+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:04:31.586+0000] {processor.py:161} INFO - Started process (PID=119) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:04:31.587+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:04:31.587+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:04:31.587+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:04:37.609+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:05:07.804+0000] {processor.py:161} INFO - Started process (PID=123) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:05:07.805+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:05:07.806+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:05:07.806+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:05:13.841+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:05:44.799+0000] {processor.py:161} INFO - Started process (PID=154) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:05:44.800+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:05:44.801+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:05:44.800+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:05:50.518+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:06:20.832+0000] {processor.py:161} INFO - Started process (PID=157) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:06:20.833+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:06:20.834+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:06:20.834+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:06:26.987+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:06:57.144+0000] {processor.py:161} INFO - Started process (PID=160) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:06:57.145+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:06:57.147+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:06:57.146+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:07:03.185+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:07:33.332+0000] {processor.py:161} INFO - Started process (PID=163) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:07:33.333+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:07:33.334+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:07:33.334+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:07:39.138+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:08:09.228+0000] {processor.py:161} INFO - Started process (PID=166) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:08:09.229+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:08:09.230+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:08:09.229+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:08:15.247+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:08:45.425+0000] {processor.py:161} INFO - Started process (PID=169) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:08:45.426+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:08:45.427+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:08:45.427+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:08:51.193+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:09:21.319+0000] {processor.py:161} INFO - Started process (PID=172) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:09:21.320+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:09:21.320+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:09:21.320+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:09:27.368+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:09:57.527+0000] {processor.py:161} INFO - Started process (PID=175) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:09:57.528+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:09:57.529+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:09:57.529+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:10:03.575+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:10:33.715+0000] {processor.py:161} INFO - Started process (PID=178) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:10:33.715+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:10:33.716+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:10:33.716+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:10:39.451+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:11:09.609+0000] {processor.py:161} INFO - Started process (PID=181) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:11:09.610+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:11:09.610+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:11:09.610+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:11:15.714+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:11:45.803+0000] {processor.py:161} INFO - Started process (PID=184) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:11:45.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:11:45.805+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:11:45.804+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:11:51.702+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:12:21.793+0000] {processor.py:161} INFO - Started process (PID=187) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:12:21.794+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:12:21.795+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:12:21.795+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:12:27.552+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:12:57.680+0000] {processor.py:161} INFO - Started process (PID=190) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:12:57.681+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:12:57.681+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:12:57.681+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:13:03.828+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:13:33.975+0000] {processor.py:161} INFO - Started process (PID=193) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:13:33.976+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:13:33.977+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:13:33.977+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:13:40.131+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-06T18:14:10.274+0000] {processor.py:161} INFO - Started process (PID=196) to work on /opt/airflow/dags/predict_new.py
+[2025-04-06T18:14:10.275+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-06T18:14:10.275+0000] {logging_mixin.py:188} INFO - [2025-04-06T18:14:10.275+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-06T18:14:16.085+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
