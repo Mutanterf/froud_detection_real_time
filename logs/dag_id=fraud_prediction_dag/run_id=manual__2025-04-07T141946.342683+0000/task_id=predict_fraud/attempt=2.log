@@ -1,0 +1,38 @@
+[2025-04-07T14:20:50.910+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: fraud_prediction_dag.predict_fraud manual__2025-04-07T14:19:46.342683+00:00 [queued]>
+[2025-04-07T14:20:50.916+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: fraud_prediction_dag.predict_fraud manual__2025-04-07T14:19:46.342683+00:00 [queued]>
+[2025-04-07T14:20:50.917+0000] {taskinstance.py:2170} INFO - Starting attempt 2 of 3
+[2025-04-07T14:20:50.931+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): predict_fraud> on 2025-04-07 14:19:46.342683+00:00
+[2025-04-07T14:20:50.934+0000] {standard_task_runner.py:60} INFO - Started process 504 to run task
+[2025-04-07T14:20:50.936+0000] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'fraud_prediction_dag', 'predict_fraud', 'manual__2025-04-07T14:19:46.342683+00:00', '--job-id', '11', '--raw', '--subdir', 'DAGS_FOLDER/fraud_pipeline_dag.py', '--cfg-path', '/tmp/tmpdwd0qq40']
+[2025-04-07T14:20:50.937+0000] {standard_task_runner.py:88} INFO - Job 11: Subtask predict_fraud
+[2025-04-07T14:20:50.965+0000] {task_command.py:423} INFO - Running <TaskInstance: fraud_prediction_dag.predict_fraud manual__2025-04-07T14:19:46.342683+00:00 [running]> on host edc87b335a79
+[2025-04-07T14:20:51.008+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='fraud_prediction_dag' AIRFLOW_CTX_TASK_ID='predict_fraud' AIRFLOW_CTX_EXECUTION_DATE='2025-04-07T14:19:46.342683+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-04-07T14:19:46.342683+00:00'
+[2025-04-07T14:21:01.020+0000] {local_task_job_runner.py:302} WARNING - State of this instance has been externally set to None. Terminating instance.
+[2025-04-07T14:21:01.022+0000] {process_utils.py:131} INFO - Sending Signals.SIGTERM to group 504. PIDs of all processes in the group: [505, 504]
+[2025-04-07T14:21:01.022+0000] {process_utils.py:86} INFO - Sending the signal Signals.SIGTERM to group 504
+[2025-04-07T14:21:01.023+0000] {taskinstance.py:2450} ERROR - Received SIGTERM. Terminating subprocesses.
+[2025-04-07T14:21:01.047+0000] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 199, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 216, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/fraud_pipeline_dag.py", line 15, in run_prediction
+    result = subprocess.run(
+  File "/usr/local/lib/python3.8/subprocess.py", line 495, in run
+    stdout, stderr = process.communicate(input, timeout=timeout)
+  File "/usr/local/lib/python3.8/subprocess.py", line 1028, in communicate
+    stdout, stderr = self._communicate(input, endtime, timeout)
+  File "/usr/local/lib/python3.8/subprocess.py", line 1884, in _communicate
+    ready = selector.select(timeout)
+  File "/usr/local/lib/python3.8/selectors.py", line 415, in select
+    fd_event_list = self._selector.poll(timeout)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 2452, in signal_handler
+    raise AirflowException("Task received SIGTERM signal")
+airflow.exceptions.AirflowException: Task received SIGTERM signal
+[2025-04-07T14:21:01.053+0000] {taskinstance.py:1138} INFO - Marking task as UP_FOR_RETRY. dag_id=fraud_prediction_dag, task_id=predict_fraud, execution_date=20250407T141946, start_date=20250407T142050, end_date=20250407T142101
+[2025-04-07T14:21:01.063+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 11 for task predict_fraud (Task received SIGTERM signal; 504)
+[2025-04-07T14:21:01.075+0000] {process_utils.py:79} INFO - Process psutil.Process(pid=504, status='terminated', exitcode=1, started='14:20:50') (504) terminated with exit code 1
+[2025-04-07T14:21:01.075+0000] {process_utils.py:79} INFO - Process psutil.Process(pid=505, status='terminated', started='14:20:50') (505) terminated with exit code None

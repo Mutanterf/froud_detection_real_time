@@ -1,0 +1,329 @@
+[2025-04-07T14:06:15.664+0000] {processor.py:161} INFO - Started process (PID=48) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:06:15.665+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:06:15.666+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:06:15.665+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:06:15.682+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:06:15.702+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:06:15.702+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:06:15.719+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:06:15.719+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-06 00:00:00+00:00, run_after=2025-04-07 00:00:00+00:00
+[2025-04-07T14:06:15.738+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.077 seconds
+[2025-04-07T14:06:46.087+0000] {processor.py:161} INFO - Started process (PID=79) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:06:46.088+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:06:46.089+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:06:46.089+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:06:46.102+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:06:46.118+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:06:46.117+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:06:46.132+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:06:46.132+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:06:46.150+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.065 seconds
+[2025-04-07T14:07:22.337+0000] {processor.py:161} INFO - Started process (PID=82) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:07:22.338+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:07:22.339+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:07:22.339+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:07:22.354+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:07:22.368+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:07:22.368+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:07:22.384+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:07:22.384+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:07:22.402+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.067 seconds
+[2025-04-07T14:07:58.570+0000] {processor.py:161} INFO - Started process (PID=85) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:07:58.571+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:07:58.572+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:07:58.571+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:07:58.585+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:07:58.601+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:07:58.600+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:07:58.620+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:07:58.620+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:07:58.645+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.077 seconds
+[2025-04-07T14:08:35.271+0000] {processor.py:161} INFO - Started process (PID=88) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:08:35.272+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:08:35.273+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:08:35.272+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:08:35.286+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:08:35.302+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:08:35.301+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:08:35.318+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:08:35.318+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:08:35.340+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.071 seconds
+[2025-04-07T14:09:11.461+0000] {processor.py:161} INFO - Started process (PID=91) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:09:11.462+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:09:11.463+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:09:11.463+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:09:11.477+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:09:11.492+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:09:11.491+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:09:11.509+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:09:11.508+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:09:11.528+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.069 seconds
+[2025-04-07T14:09:47.652+0000] {processor.py:161} INFO - Started process (PID=94) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:09:47.653+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:09:47.654+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:09:47.654+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:09:47.668+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:09:47.683+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:09:47.683+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:09:47.700+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:09:47.700+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:09:47.721+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.071 seconds
+[2025-04-07T14:10:23.852+0000] {processor.py:161} INFO - Started process (PID=97) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:10:23.853+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:10:23.854+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:10:23.853+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:10:23.867+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:10:23.883+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:10:23.882+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:10:23.899+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:10:23.899+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:10:23.917+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.068 seconds
+[2025-04-07T14:11:00.032+0000] {processor.py:161} INFO - Started process (PID=100) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:11:00.032+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:11:00.033+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:11:00.033+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:11:00.046+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:11:00.060+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:11:00.060+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:11:00.076+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:11:00.075+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:11:00.093+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.064 seconds
+[2025-04-07T14:11:36.229+0000] {processor.py:161} INFO - Started process (PID=103) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:11:36.230+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:11:36.231+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:11:36.231+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:11:36.244+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:11:36.258+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:11:36.258+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:11:36.273+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:11:36.273+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:11:36.294+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.067 seconds
+[2025-04-07T14:12:12.216+0000] {processor.py:161} INFO - Started process (PID=106) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:12:12.217+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:12:12.218+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:12:12.218+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:12:12.232+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:12:12.247+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:12:12.247+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:12:12.263+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:12:12.263+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:12:12.282+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.068 seconds
+[2025-04-07T14:12:48.409+0000] {processor.py:161} INFO - Started process (PID=109) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:12:48.409+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:12:48.410+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:12:48.410+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:12:48.422+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:12:48.436+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:12:48.435+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:12:48.449+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:12:48.449+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:12:48.468+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.061 seconds
+[2025-04-07T14:13:24.803+0000] {processor.py:161} INFO - Started process (PID=112) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:13:24.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:13:24.805+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:13:24.805+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:13:24.818+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:13:24.832+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:13:24.832+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:13:24.848+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:13:24.847+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:13:24.865+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.064 seconds
+[2025-04-07T14:14:01.183+0000] {processor.py:161} INFO - Started process (PID=115) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:14:01.184+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:14:01.185+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:14:01.185+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:14:01.199+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:14:01.214+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:14:01.214+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:14:01.231+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:14:01.230+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:14:01.249+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.067 seconds
+[2025-04-07T14:14:48.915+0000] {processor.py:161} INFO - Started process (PID=140) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:14:48.916+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:14:48.916+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:14:48.916+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:14:48.930+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:14:48.945+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:14:48.945+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:14:48.961+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:14:48.961+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:14:48.980+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.068 seconds
+[2025-04-07T14:15:55.384+0000] {processor.py:161} INFO - Started process (PID=215) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:15:55.385+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:15:55.386+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:15:55.385+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:15:55.398+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:15:55.414+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:15:55.413+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:15:55.430+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:15:55.430+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:15:55.449+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.067 seconds
+[2025-04-07T14:16:26.371+0000] {processor.py:161} INFO - Started process (PID=240) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:16:26.372+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:16:26.373+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:16:26.373+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:16:26.390+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:16:26.408+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:16:26.407+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:16:26.427+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:16:26.427+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:16:26.444+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.076 seconds
+[2025-04-07T14:17:10.606+0000] {processor.py:161} INFO - Started process (PID=265) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:17:10.607+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:17:10.608+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:17:10.608+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:17:10.623+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:17:10.640+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:17:10.639+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:17:10.657+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:17:10.657+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:17:10.678+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.074 seconds
+[2025-04-07T14:17:57.844+0000] {processor.py:161} INFO - Started process (PID=290) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:17:57.845+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:17:57.846+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:17:57.845+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:17:57.859+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:17:57.874+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:17:57.874+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:17:57.891+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:17:57.890+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:17:57.909+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.067 seconds
+[2025-04-07T14:18:44.388+0000] {processor.py:161} INFO - Started process (PID=315) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:18:44.389+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:18:44.389+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:18:44.389+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:18:44.403+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:18:44.419+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:18:44.419+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:18:44.435+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:18:44.435+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:18:44.454+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.068 seconds
+[2025-04-07T14:19:31.329+0000] {processor.py:161} INFO - Started process (PID=340) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:19:31.330+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:19:31.331+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:19:31.331+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:19:31.345+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:19:31.360+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:19:31.360+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:19:31.377+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:19:31.376+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:19:31.396+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.068 seconds
+[2025-04-07T14:20:13.802+0000] {processor.py:161} INFO - Started process (PID=415) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:20:13.803+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:20:13.804+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:20:13.804+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:20:13.817+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:20:13.832+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:20:13.831+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:20:13.847+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:20:13.847+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:20:13.867+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.067 seconds
+[2025-04-07T14:20:44.780+0000] {processor.py:161} INFO - Started process (PID=490) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:20:44.781+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:20:44.782+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:20:44.782+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:20:44.795+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:20:44.810+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:20:44.810+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:20:44.826+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:20:44.825+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:20:44.844+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.066 seconds
+[2025-04-07T14:21:41.236+0000] {processor.py:161} INFO - Started process (PID=615) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:21:41.237+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:21:41.238+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:21:41.238+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:21:41.256+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:21:41.275+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:21:41.275+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:21:41.296+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:21:41.295+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:21:41.319+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.085 seconds
+[2025-04-07T14:22:28.413+0000] {processor.py:161} INFO - Started process (PID=640) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:22:28.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:22:28.416+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:22:28.415+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:22:28.436+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:22:28.455+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:22:28.454+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:22:28.476+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:22:28.476+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:22:28.501+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.091 seconds
+[2025-04-07T14:23:15.878+0000] {processor.py:161} INFO - Started process (PID=665) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:23:15.879+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:23:15.880+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:23:15.880+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:23:15.897+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:23:15.917+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:23:15.917+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:23:15.933+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:23:15.933+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:23:15.950+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.075 seconds
+[2025-04-07T14:23:50.812+0000] {processor.py:161} INFO - Started process (PID=690) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:23:50.813+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:23:50.814+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:23:50.813+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:23:50.828+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:23:50.844+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:23:50.844+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:23:50.860+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:23:50.860+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:23:50.877+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.067 seconds
+[2025-04-07T14:23:58.980+0000] {processor.py:161} INFO - Started process (PID=691) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:23:58.981+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:23:58.982+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:23:58.982+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:23:59.005+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:23:59.030+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:23:59.030+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:23:59.049+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:23:59.049+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:23:59.074+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.096 seconds
+[2025-04-07T14:24:37.582+0000] {processor.py:161} INFO - Started process (PID=716) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:24:37.583+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:24:37.584+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:24:37.583+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:24:37.600+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:24:37.616+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:24:37.615+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:24:37.633+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:24:37.633+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:24:37.652+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.072 seconds
+[2025-04-07T14:25:26.355+0000] {processor.py:161} INFO - Started process (PID=741) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:25:26.356+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:25:26.357+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:25:26.357+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:25:26.377+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:25:26.399+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:25:26.399+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:25:26.423+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:25:26.423+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:25:26.449+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.097 seconds
+[2025-04-07T14:26:33.604+0000] {processor.py:161} INFO - Started process (PID=816) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:26:33.605+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:26:33.606+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:26:33.606+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:26:33.619+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:26:33.632+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:26:33.632+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:26:33.650+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:26:33.650+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:26:33.668+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.066 seconds
+[2025-04-07T14:27:11.984+0000] {processor.py:161} INFO - Started process (PID=891) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:27:11.984+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:27:11.985+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:27:11.985+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:27:11.998+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:27:12.012+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:27:12.012+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:27:12.027+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:27:12.027+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:27:12.047+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.066 seconds
+[2025-04-07T14:27:59.034+0000] {processor.py:161} INFO - Started process (PID=916) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:27:59.035+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:27:59.035+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:27:59.035+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:27:59.049+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:27:59.065+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:27:59.064+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:27:59.080+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:27:59.079+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:27:59.097+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.065 seconds
+[2025-04-07T14:28:46.707+0000] {processor.py:161} INFO - Started process (PID=941) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:28:46.708+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:28:46.711+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:28:46.710+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:28:46.730+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:28:46.749+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:28:46.749+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:28:46.769+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:28:46.769+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:28:46.795+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.090 seconds
+[2025-04-07T14:29:33.926+0000] {processor.py:161} INFO - Started process (PID=966) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:29:33.927+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:29:33.928+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:29:33.928+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:29:33.945+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:29:33.959+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:29:33.959+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:29:33.973+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:29:33.973+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:29:33.995+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.071 seconds
+[2025-04-07T14:30:20.951+0000] {processor.py:161} INFO - Started process (PID=991) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:30:20.952+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:30:20.952+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:30:20.952+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:30:20.968+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:30:20.986+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:30:20.986+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:30:21.003+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:30:21.003+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:30:21.022+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.073 seconds
+[2025-04-07T14:31:09.323+0000] {processor.py:161} INFO - Started process (PID=1066) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:31:09.324+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:31:09.325+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:31:09.324+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:31:09.339+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:31:09.355+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:31:09.354+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:31:09.371+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:31:09.371+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:31:09.389+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.069 seconds
+[2025-04-07T14:31:55.884+0000] {processor.py:161} INFO - Started process (PID=1091) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:31:55.885+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:31:55.886+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:31:55.885+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:31:55.899+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:31:55.913+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:31:55.913+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:31:55.928+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:31:55.928+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:31:55.947+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.065 seconds
+[2025-04-07T14:32:43.535+0000] {processor.py:161} INFO - Started process (PID=1116) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:32:43.536+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:32:43.537+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:32:43.537+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:32:43.550+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:32:43.564+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:32:43.564+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:32:43.578+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:32:43.578+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:32:43.598+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.065 seconds
+[2025-04-07T14:33:30.461+0000] {processor.py:161} INFO - Started process (PID=1141) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:33:30.461+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:33:30.462+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:33:30.462+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:33:30.475+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:33:30.492+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:33:30.491+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:33:30.509+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:33:30.508+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:33:30.527+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.071 seconds
+[2025-04-07T14:34:18.511+0000] {processor.py:161} INFO - Started process (PID=1166) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:34:18.512+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:34:18.513+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:34:18.512+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:34:18.528+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:34:18.546+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:34:18.545+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:34:18.566+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:34:18.566+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:34:18.591+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.082 seconds
+[2025-04-07T14:34:48.672+0000] {processor.py:161} INFO - Started process (PID=1191) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:34:48.673+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:34:48.675+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:34:48.674+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:34:48.694+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:34:48.708+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:34:48.708+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:34:48.724+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:34:48.723+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:34:48.741+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.072 seconds
+[2025-04-07T14:34:54.736+0000] {processor.py:161} INFO - Started process (PID=1192) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:34:54.737+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:34:54.739+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:34:54.738+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:34:54.768+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:34:54.796+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:34:54.796+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:34:54.822+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:34:54.821+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:34:54.858+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.124 seconds
+[2025-04-07T14:35:25.912+0000] {processor.py:161} INFO - Started process (PID=1195) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:35:25.913+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:35:25.914+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:35:25.913+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:35:25.927+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:35:25.942+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:35:25.941+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:35:25.956+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:35:25.956+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:35:25.974+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.064 seconds
+[2025-04-07T14:36:02.198+0000] {processor.py:161} INFO - Started process (PID=1226) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:36:02.201+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:36:02.202+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:36:02.202+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:36:02.218+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:36:02.234+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:36:02.234+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:36:02.251+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:36:02.251+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:36:02.269+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.075 seconds
+[2025-04-07T14:36:38.605+0000] {processor.py:161} INFO - Started process (PID=1229) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:36:38.605+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:36:38.606+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:36:38.606+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:36:38.620+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:36:38.636+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:36:38.636+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:36:38.652+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:36:38.651+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:36:38.670+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.068 seconds
+[2025-04-07T14:37:14.728+0000] {processor.py:161} INFO - Started process (PID=1232) to work on /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:37:14.729+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fraud_pipeline_dag.py for tasks to queue
+[2025-04-07T14:37:14.730+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:37:14.730+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:37:14.744+0000] {processor.py:840} INFO - DAG(s) 'fraud_prediction_dag' retrieved from /opt/airflow/dags/fraud_pipeline_dag.py
+[2025-04-07T14:37:14.758+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:37:14.758+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-07T14:37:14.772+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:37:14.772+0000] {dag.py:3823} INFO - Setting next_dagrun for fraud_prediction_dag to 2025-04-07 00:00:00+00:00, run_after=2025-04-08 00:00:00+00:00
+[2025-04-07T14:37:14.790+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/fraud_pipeline_dag.py took 0.064 seconds

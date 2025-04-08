@@ -2,7 +2,7 @@ from airflow import DAG
 from airflow.operators.python import PythonOperator
 from datetime import datetime, timedelta
 import subprocess
-
+# predict_new was changed 
 default_args = {
     'owner': 'airflow',
     'retries': 1,

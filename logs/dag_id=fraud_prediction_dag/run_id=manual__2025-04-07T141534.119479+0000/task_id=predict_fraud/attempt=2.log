@@ -1,0 +1,15 @@
+[2025-04-07T14:20:15.829+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: fraud_prediction_dag.predict_fraud manual__2025-04-07T14:15:34.119479+00:00 [queued]>
+[2025-04-07T14:20:15.837+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: fraud_prediction_dag.predict_fraud manual__2025-04-07T14:15:34.119479+00:00 [queued]>
+[2025-04-07T14:20:15.838+0000] {taskinstance.py:2170} INFO - Starting attempt 2 of 3
+[2025-04-07T14:20:15.855+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): predict_fraud> on 2025-04-07 14:15:34.119479+00:00
+[2025-04-07T14:20:15.859+0000] {standard_task_runner.py:60} INFO - Started process 429 to run task
+[2025-04-07T14:20:15.862+0000] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'fraud_prediction_dag', 'predict_fraud', 'manual__2025-04-07T14:15:34.119479+00:00', '--job-id', '10', '--raw', '--subdir', 'DAGS_FOLDER/fraud_pipeline_dag.py', '--cfg-path', '/tmp/tmpag2xow2y']
+[2025-04-07T14:20:15.864+0000] {standard_task_runner.py:88} INFO - Job 10: Subtask predict_fraud
+[2025-04-07T14:20:15.890+0000] {task_command.py:423} INFO - Running <TaskInstance: fraud_prediction_dag.predict_fraud manual__2025-04-07T14:15:34.119479+00:00 [running]> on host edc87b335a79
+[2025-04-07T14:20:15.940+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='fraud_prediction_dag' AIRFLOW_CTX_TASK_ID='predict_fraud' AIRFLOW_CTX_EXECUTION_DATE='2025-04-07T14:15:34.119479+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-04-07T14:15:34.119479+00:00'
+[2025-04-07T14:20:25.948+0000] {local_task_job_runner.py:302} WARNING - State of this instance has been externally set to failed. Terminating instance.
+[2025-04-07T14:20:25.949+0000] {process_utils.py:131} INFO - Sending Signals.SIGTERM to group 429. PIDs of all processes in the group: [430, 429]
+[2025-04-07T14:20:25.949+0000] {process_utils.py:86} INFO - Sending the signal Signals.SIGTERM to group 429
+[2025-04-07T14:20:25.950+0000] {taskinstance.py:2450} ERROR - Received SIGTERM. Terminating subprocesses.
+[2025-04-07T14:20:25.976+0000] {process_utils.py:79} INFO - Process psutil.Process(pid=430, status='terminated', started='14:20:15') (430) terminated with exit code None
+[2025-04-07T14:20:25.990+0000] {process_utils.py:79} INFO - Process psutil.Process(pid=429, status='terminated', exitcode=0, started='14:20:15') (429) terminated with exit code 0

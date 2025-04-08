@@ -1,8 +1,11 @@
-
 import pandas as pd
 import joblib
 import clickhouse_connect
 from datetime import datetime, timezone
+
+def safe_transform(encoder, values):
+    mapping = {cls: i for i, cls in enumerate(encoder.classes_)}
+    return [mapping.get(v, -1) for v in values]
 
 client = clickhouse_connect.get_client(
     host='cbfiaf2y65.eu-west-2.aws.clickhouse.cloud',
@@ -34,9 +37,9 @@ df['nameDest_raw'] = df['nameDest']
 model = joblib.load('/opt/airflow/dags/fraud_model_xgb.pkl')
 encoders = joblib.load('/opt/airflow/dags/label_encoders.pkl')
 
-df['type'] = encoders['type'].transform(df['type_raw'])
-df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
-df['nameDest'] = encoders['nameDest'].transform(df['nameDest_raw'])
+df['type'] = safe_transform(encoders['type'], df['type_raw'])
+df['nameOrig'] = safe_transform(encoders['nameOrig'], df['nameOrig_raw'])
+df['nameDest'] = safe_transform(encoders['nameDest'], df['nameDest_raw'])
 
 X = df[['step', 'type', 'amount', 'nameOrig', 'nameDest']]
 y_proba = model.predict_proba(X)[:, 1]

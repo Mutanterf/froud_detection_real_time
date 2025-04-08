@@ -1,0 +1,1123 @@
+[2025-04-07T14:06:38.512+0000] {processor.py:161} INFO - Started process (PID=77) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:06:38.513+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:06:38.513+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:06:38.513+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:06:44.927+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-07T14:07:15.266+0000] {processor.py:161} INFO - Started process (PID=80) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:07:15.267+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:07:15.267+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:07:15.267+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:07:21.231+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-07T14:07:51.402+0000] {processor.py:161} INFO - Started process (PID=83) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:07:51.403+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:07:51.404+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:07:51.404+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:07:57.459+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-07T14:08:27.604+0000] {processor.py:161} INFO - Started process (PID=86) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:08:27.606+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:08:27.607+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:08:27.606+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:08:34.121+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-07T14:09:04.294+0000] {processor.py:161} INFO - Started process (PID=89) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:09:04.294+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:09:04.295+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:09:04.295+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:09:10.363+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-07T14:09:40.485+0000] {processor.py:161} INFO - Started process (PID=92) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:09:40.486+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:09:40.486+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:09:40.486+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:09:46.508+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-07T14:10:16.672+0000] {processor.py:161} INFO - Started process (PID=95) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:10:16.673+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:10:16.674+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:10:16.674+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:10:22.756+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-07T14:10:52.865+0000] {processor.py:161} INFO - Started process (PID=98) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:10:52.866+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:10:52.867+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:10:52.866+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:10:58.928+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-07T14:11:29.053+0000] {processor.py:161} INFO - Started process (PID=101) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:11:29.054+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:11:29.055+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:11:29.055+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:11:35.088+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-07T14:12:05.248+0000] {processor.py:161} INFO - Started process (PID=104) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:12:05.249+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:12:05.249+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:12:05.249+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:12:11.139+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-07T14:12:41.244+0000] {processor.py:161} INFO - Started process (PID=107) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:12:41.245+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:12:41.246+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:12:41.246+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:12:47.332+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-07T14:13:17.430+0000] {processor.py:161} INFO - Started process (PID=110) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:13:17.431+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:13:17.432+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:13:17.432+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:13:23.657+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-07T14:13:53.819+0000] {processor.py:161} INFO - Started process (PID=113) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:13:53.819+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:13:53.820+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:13:53.820+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:14:00.070+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-07T14:14:30.208+0000] {processor.py:161} INFO - Started process (PID=116) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:14:30.209+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:14:30.210+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:14:30.209+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:14:36.857+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:14:36] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:14:36.861+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:14:47.662+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:14:47.654+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:14:47.804+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:14:47.819+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 17.614 seconds
+[2025-04-07T14:15:17.934+0000] {processor.py:161} INFO - Started process (PID=141) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:15:17.935+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:15:17.936+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:15:17.936+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:15:24.539+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:15:24] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:15:24.542+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:15:35.285+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:15:35.281+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:15:35.366+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:15:35.378+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 17.447 seconds
+[2025-04-07T14:16:06.467+0000] {processor.py:161} INFO - Started process (PID=216) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:16:06.468+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:16:06.469+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:16:06.469+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:16:12.993+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:16:12] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:16:12.998+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:16:23.021+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:16:23.018+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:16:23.100+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:16:23.112+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 16.646 seconds
+[2025-04-07T14:16:53.302+0000] {processor.py:161} INFO - Started process (PID=241) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:16:53.303+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:16:53.304+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:16:53.303+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:16:59.733+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:16:59] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:16:59.737+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:17:09.379+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:17:09.369+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:17:09.470+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:17:09.482+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 16.182 seconds
+[2025-04-07T14:17:39.636+0000] {processor.py:161} INFO - Started process (PID=266) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:17:39.637+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:17:39.637+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:17:39.637+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:17:46.238+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:17:46] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:17:46.242+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:17:56.640+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:17:56.636+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:17:56.718+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:17:56.732+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 17.099 seconds
+[2025-04-07T14:18:26.873+0000] {processor.py:161} INFO - Started process (PID=291) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:18:26.874+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:18:26.875+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:18:26.874+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:18:33.303+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:18:33] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:18:33.307+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:18:43.079+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:18:43.076+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:18:43.205+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:18:43.231+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 16.362 seconds
+[2025-04-07T14:19:13.418+0000] {processor.py:161} INFO - Started process (PID=316) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:19:13.419+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:19:13.420+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:19:13.420+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:19:19.756+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:19:19] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:19:19.759+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:19:30.116+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:19:30.112+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:19:30.200+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:19:30.212+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 16.796 seconds
+[2025-04-07T14:19:35.330+0000] {processor.py:161} INFO - Started process (PID=341) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:19:35.331+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:19:35.332+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:19:35.332+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:19:42.017+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:19:41] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:19:42.024+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:19:53.313+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:19:53.309+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:19:53.398+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:19:53.411+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 18.084 seconds
+[2025-04-07T14:20:26.362+0000] {processor.py:161} INFO - Started process (PID=466) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:20:26.364+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:20:26.365+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:20:26.364+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:20:32.747+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:20:32] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:20:32.753+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:20:43.591+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:20:43.586+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:20:43.666+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:20:43.679+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 17.321 seconds
+[2025-04-07T14:21:22.561+0000] {processor.py:161} INFO - Started process (PID=591) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:21:22.562+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:21:22.563+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:21:22.563+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:21:29.228+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:21:29] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:21:29.233+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:21:39.999+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:21:39.996+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:21:40.080+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:21:40.092+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 17.536 seconds
+[2025-04-07T14:22:10.274+0000] {processor.py:161} INFO - Started process (PID=616) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:22:10.275+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:22:10.276+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:22:10.276+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:22:17.028+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:22:17] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:22:17.035+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:22:27.208+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:22:27.203+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:22:27.289+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:22:27.302+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 17.029 seconds
+[2025-04-07T14:22:57.434+0000] {processor.py:161} INFO - Started process (PID=641) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:22:57.435+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:22:57.435+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:22:57.435+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:23:03.732+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:23:03] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:23:03.736+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:23:14.548+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:23:14.543+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:23:14.698+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:23:14.715+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 17.284 seconds
+[2025-04-07T14:23:33.103+0000] {processor.py:161} INFO - Started process (PID=666) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:23:33.104+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:23:33.104+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:23:33.104+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:23:39.552+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:23:39] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:23:39.556+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:23:49.576+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:23:49.572+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:23:49.657+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:23:49.669+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 16.568 seconds
+[2025-04-07T14:24:19.867+0000] {processor.py:161} INFO - Started process (PID=692) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:24:19.867+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:24:19.868+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:24:19.868+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:24:26.112+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:24:26] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:24:26.115+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:24:36.365+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:24:36.362+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:24:36.450+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:24:36.462+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 16.598 seconds
+[2025-04-07T14:25:06.627+0000] {processor.py:161} INFO - Started process (PID=717) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:25:06.628+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:25:06.629+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:25:06.629+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:25:13.305+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:25:13] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:25:13.312+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:25:25.091+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:25:25.087+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:25:25.219+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:25:25.233+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 18.610 seconds
+[2025-04-07T14:25:55.385+0000] {processor.py:161} INFO - Started process (PID=742) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:25:55.386+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:25:55.387+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:25:55.386+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:26:01.876+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:26:01] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:26:01.884+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:26:12.415+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:26:12.411+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:26:12.505+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:26:12.519+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 17.137 seconds
+[2025-04-07T14:26:54.374+0000] {processor.py:161} INFO - Started process (PID=867) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:26:54.375+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:26:54.376+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:26:54.375+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:27:00.745+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:27:00] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:27:00.750+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:27:10.763+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:27:10.760+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:27:10.845+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:27:10.859+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 16.488 seconds
+[2025-04-07T14:27:41.017+0000] {processor.py:161} INFO - Started process (PID=892) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:27:41.018+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:27:41.019+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:27:41.019+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:27:47.568+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:27:47] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:27:47.576+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:27:57.841+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:27:57.838+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:27:57.919+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:27:57.932+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 16.917 seconds
+[2025-04-07T14:28:28.071+0000] {processor.py:161} INFO - Started process (PID=917) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:28:28.071+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:28:28.072+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:28:28.072+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:28:34.598+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:28:34] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:28:34.602+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:28:45.397+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:28:45.393+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:28:45.538+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:28:45.558+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 17.490 seconds
+[2025-04-07T14:29:15.721+0000] {processor.py:161} INFO - Started process (PID=942) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:29:15.722+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:29:15.723+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:29:15.723+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:29:22.142+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:29:22] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:29:22.146+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:29:32.697+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:29:32.692+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:29:32.773+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:29:32.786+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 17.068 seconds
+[2025-04-07T14:30:02.957+0000] {processor.py:161} INFO - Started process (PID=967) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:30:02.957+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:30:02.958+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:30:02.958+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:30:09.303+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:30:09] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:30:09.311+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:30:19.705+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:30:19.702+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:30:19.790+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:30:19.802+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 16.848 seconds
+[2025-04-07T14:30:50.486+0000] {processor.py:161} INFO - Started process (PID=1042) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:30:50.487+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:30:50.488+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:30:50.488+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:30:56.889+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:30:56] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:30:56.893+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:31:08.127+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:31:08.124+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:31:08.208+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:31:08.222+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 17.739 seconds
+[2025-04-07T14:31:38.357+0000] {processor.py:161} INFO - Started process (PID=1067) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:31:38.358+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:31:38.359+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:31:38.358+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:31:44.703+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:31:44] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:31:44.708+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:31:54.676+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:31:54.671+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:31:54.752+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:31:54.764+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 16.410 seconds
+[2025-04-07T14:32:24.894+0000] {processor.py:161} INFO - Started process (PID=1092) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:32:24.895+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:32:24.896+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:32:24.896+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:32:31.416+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:32:31] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:32:31.420+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:32:42.303+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:32:42.299+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:32:42.417+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:32:42.431+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 17.540 seconds
+[2025-04-07T14:33:12.520+0000] {processor.py:161} INFO - Started process (PID=1117) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:33:12.520+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:33:12.521+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:33:12.521+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:33:18.872+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:33:18] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:33:18.876+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:33:29.248+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:33:29.243+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:33:29.346+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:33:29.360+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 16.843 seconds
+[2025-04-07T14:33:59.492+0000] {processor.py:161} INFO - Started process (PID=1142) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:33:59.493+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:33:59.494+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:33:59.493+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:34:06.219+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:34:06] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:34:06.231+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:34:17.236+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:34:17.232+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/predict_new.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 225, in _encode
+    return _map_to_integer(values, uniques)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in _map_to_integer
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 165, in <listcomp>
+    return np.array([table[v] for v in values])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 159, in __missing__
+    raise KeyError(key)
+KeyError: 'Mika'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/predict_new.py", line 38, in <module>
+    df['nameOrig'] = encoders['nameOrig'].transform(df['nameOrig_raw'])
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_label.py", line 137, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_encode.py", line 227, in _encode
+    raise ValueError(f"y contains previously unseen labels: {str(e)}")
+ValueError: y contains previously unseen labels: 'Mika'
+[2025-04-07T14:34:17.330+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:34:17.342+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 17.853 seconds
+[2025-04-07T14:34:26.667+0000] {processor.py:161} INFO - Started process (PID=1167) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:34:26.668+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:34:26.669+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:34:26.668+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:34:33.322+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/xgboost/core.py:158 UserWarning: [14:34:33] WARNING: /workspace/src/collective/../data/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+[2025-04-07T14:34:33.326+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py:348 InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.5.1 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+[2025-04-07T14:34:41.474+0000] {logging_mixin.py:188} INFO - 1 новых
+[2025-04-07T14:34:41.474+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:34:41.485+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/predict_new.py took 14.822 seconds
+[2025-04-07T14:35:11.615+0000] {processor.py:161} INFO - Started process (PID=1193) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:35:11.616+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:35:11.617+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:35:11.617+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:35:17.700+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-07T14:35:55.213+0000] {processor.py:161} INFO - Started process (PID=1224) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:35:55.214+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:35:55.215+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:35:55.214+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:36:01.095+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-07T14:36:31.338+0000] {processor.py:161} INFO - Started process (PID=1227) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:36:31.339+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:36:31.340+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:36:31.339+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:36:37.468+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
+[2025-04-07T14:37:07.662+0000] {processor.py:161} INFO - Started process (PID=1230) to work on /opt/airflow/dags/predict_new.py
+[2025-04-07T14:37:07.662+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/predict_new.py for tasks to queue
+[2025-04-07T14:37:07.663+0000] {logging_mixin.py:188} INFO - [2025-04-07T14:37:07.663+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/predict_new.py
+[2025-04-07T14:37:13.647+0000] {logging_mixin.py:188} INFO - Нет новых транзакций
